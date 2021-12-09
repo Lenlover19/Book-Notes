@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T18:32:02.883Z" agent="5.0 (Windows)" version="15.9.4" etag="CtqZ8WYT_7aic2nvg8Mj" type="github"><diagram id="hHlFZ7VXGlfYixD8VlmR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-09T18:49:08.499Z" agent="5.0 (Windows)" etag="vYqEwUqeOmRLyBajtuX5" version="15.9.4" type="github">
+  <diagram id="hHlFZ7VXGlfYixD8VlmR" name="Page-1">
+    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFCC" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mtvsq1mrCesNcwVdDurB-1" value="&lt;h1&gt;Emotional Decoding AKA: &quot;Forecast&quot;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="10" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtvsq1mrCesNcwVdDurB-2" value="Get into a state of mindfulness -- sit down, relax, and try to put yourself in the moment." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtvsq1mrCesNcwVdDurB-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.5" y="190" as="sourcePoint" />
+            <mxPoint x="104.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mtvsq1mrCesNcwVdDurB-4" value="Ask yourself &quot;How am I feeling?&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtvsq1mrCesNcwVdDurB-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.5" y="340" as="sourcePoint" />
+            <mxPoint x="104.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mtvsq1mrCesNcwVdDurB-6" value="Notice and name the emotion" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtvsq1mrCesNcwVdDurB-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.5" y="490" as="sourcePoint" />
+            <mxPoint x="104.5" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mtvsq1mrCesNcwVdDurB-8" value="&lt;b&gt;Notice &lt;/b&gt;the emotion present in your answer to that question and &lt;b&gt;name&lt;/b&gt; it.&lt;br&gt;&lt;b&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="33.75" y="570" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtvsq1mrCesNcwVdDurB-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.5" y="660" as="sourcePoint" />
+            <mxPoint x="104.5" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
